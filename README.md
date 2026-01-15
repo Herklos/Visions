@@ -1,8 +1,11 @@
-# Personal Manifests
+# Personal Visions
 
-This repository contains my personal **MANIFEST** files. Each manifest documents my perspective on specific problems, my approach to thinking about them, and the solutions I propose.
+This repository contains my personal vision on some subjects. They are explained with:
 
-## Available Manifests
+- **MANIFEST**: My perspective on specific problems, my approach to thinking about them, and the solutions I propose.
+- **STRATEGY**: My concrete strategy for solving a specific problem, often implementing solutions outlined in a MANIFEST.
 
-### [Open Finance for All: Your Money, Your Rules](./OPEN_INVESTMENT.md)
-A manifesto on democratizing financial services and giving individuals control over their money and financial data.
+## Available Subjects
+
+### [Open Finance for All: Your Money, Your Rules](./open_investment/README.md)
+Democratizing financial services and giving individuals control over their money and financial data.
